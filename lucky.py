@@ -1,7 +1,6 @@
-# Author	Alexander
-# Date 		26/1/2020
-# Purpose       Python script to generate lottery numbers
-# Notes
+#Author	Alexander
+#Date   26/1/2020
+#Purpose Python script to generate lottery numbers
 
 #!/usr/bin/python
 import random
